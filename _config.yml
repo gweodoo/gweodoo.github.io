@@ -13,19 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Julien's Personal Home Page
+title: Julien_Adam-Marie
 email: julien@adamarie.pro
 description: >- # this means to ignore newlines until "baseurl:"
-    Personal website to introduce myself.
-baseurl: "/" # the subpath of your site, e.g. /blog
+        “Intelligence is the ability to avoid doing work, yet getting the work done.” - Linus Torvalds
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://julien.adamarie.pro" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  gweodoo
+show_downloads: true
+google_analytics: UA-28586663-2
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
-  - jekyll-feed
   - jekyll-relative-links
 
 # Exclude from processing.
