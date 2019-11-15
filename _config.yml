@@ -23,7 +23,7 @@ github_username:  gweodoo
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-relative-links
