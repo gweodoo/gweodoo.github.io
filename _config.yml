@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://julien.adamarie.pro" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  gweodoo
-show_downloads: true
+show_downloads: false
 google_analytics: UA-28586663-2
 
 # Build settings
