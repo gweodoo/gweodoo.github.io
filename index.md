@@ -67,10 +67,10 @@ Remote Debugging
 * **Languages**: C/C++, Perl (5/6), Python (2/3), Shell, LaTeX, Redis, Gnuplot, Web Tech., Java Family, Redis
 * **Software Engineering**": Git, SVN, CMake, Autotools, Gitlab, Jenkins, Scrum, ITIL
 * **Certified Completed Online Courses**:
-	- [S190.1x: Scalable Machine Learning] (https://verify.edx.org/cert/d53680539ea545bbae9509093f3a6668) -- UC BerkeleyX -- 100%
-	- [CS002x : Programming in Scratch] (https://verify.edx.org/cert/b6477262b58c44cb8662ede4766d53bf) -- HarveyMuddX -- 96%
-	- [DEV203x : Introduction to Bootstrap] (https://verify.edx.org/cert/770b5514826d4be9bfd27b4ff98f12d0) -- MicrosoftX -- 78%
-	- [LFS101x.2 : Introduction to Linux] (https://verify.edx.org/cert/b028f09211754025b050d9f30699d44e) -- LinxuFoundationX -- 97% 
+	- [S190.1x: Scalable Machine Learning](https://verify.edx.org/cert/d53680539ea545bbae9509093f3a6668) -- UC BerkeleyX -- 100%
+	- [CS002x : Programming in Scratch](https://verify.edx.org/cert/b6477262b58c44cb8662ede4766d53bf) -- HarveyMuddX -- 96%
+	- [DEV203x : Introduction to Bootstrap](https://verify.edx.org/cert/770b5514826d4be9bfd27b4ff98f12d0) -- MicrosoftX -- 78%
+	- [LFS101x.2 : Introduction to Linux](https://verify.edx.org/cert/b028f09211754025b050d9f30699d44e) -- LinxuFoundationX -- 97% 
 
 Publications
 ============
@@ -91,6 +91,6 @@ Parallel Processing*. Springer, Cham, 2016. p. 248-255.
 Contact
 =======
 
-Email: [julien@adamarie.pro] (mailto:julien@adamarie.pro)
-Linkedin: [julienadambeulin] (https://linkedin.com/in/julienadambeulin) {:target="_blank"}
-Website: [julien.adamarie.pro] (https://julien.adamarie.pro) {:target="_blank"}
+Email: [julien@adamarie.pro](mailto:julien@adamarie.pro)
+Linkedin: [julienadambeulin](https://linkedin.com/in/julienadambeulin){:target="_blank"}
+Website: [julien.adamarie.pro](https://julien.adamarie.pro){:target="_blank"}
