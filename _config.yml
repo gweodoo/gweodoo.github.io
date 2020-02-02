@@ -25,7 +25,7 @@ google_analytics: UA-28586663-2
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 
