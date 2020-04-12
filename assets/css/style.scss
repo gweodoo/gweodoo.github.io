@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{site.theme}}";
+
+header h1:before { content: "$ > "; }
+header h2 {text-align: center;}
+a {color: #b5e853; }
+#headerlist {text-align: center;}
+#main_content p {text-align: justify; }
+.btn-project { display: inline-block; background: -webkit-linear-gradient(top, rgba(0, 70, 0, 0.3), rgba(0, 60, 0, 0.3) 50%, rgba(0, 40, 0, 0.3) 50%, rgba(0, 20, 0, 0.3)); padding: 8px 18px; border-radius: 50px; border: 2px solid rgba(0, 0, 0, 0.7); border-bottom: 2px solid rgba(0, 0, 0, 0.7); border-top: 2px solid black; color: rgba(255, 255, 255, 0.8); font-family: Helvetica, Arial, sans-serif; font-weight: bold; font-size: 13px; text-decoration: none; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75); box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05); }
+.btn-codebase { display: inline-block; background: -webkit-linear-gradient(top, rgba(70, 70, 0, 0.3), rgba(60, 60, 0, 0.3) 50%, rgba(40, 40, 0, 0.3) 50%, rgba(20, 20, 0, 0.3)); padding: 8px 18px; border-radius: 50px; border: 2px solid rgba(0, 0, 0, 0.7); border-bottom: 2px solid rgba(0, 0, 0, 0.7); border-top: 2px solid black; color: rgba(255, 255, 255, 0.8); font-family: Helvetica, Arial, sans-serif; font-weight: bold; font-size: 13px; text-decoration: none; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75); box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05); }
+
+.abstract {margin-bottom: 20px;}
+.abstract .content {text-align: justify; font-size: 90%; color: rgba(160,160,160, 1); font-style: italic;}
+.abstract summary {font-weight: bold; font-size: 95%}
+
+.img-projects {float: left; height: 128px; display: block; margin-right: 15px}
+.footer {text-align: center; color: rgba(160,160,160,1)}
+
