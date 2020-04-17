@@ -6,6 +6,8 @@ layout: default
 Contact
 =======
 
+Feel free to use one of the references below:
+
 Direct Email: [julien [AT] adamarie [DOT] pro](#)<br/>
 Linkedin: [julienadambeulin](https://linkedin.com/in/julienadambeulin){:target="_blank"}<br/>
 Website:
